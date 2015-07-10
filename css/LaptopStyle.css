@@ -1,3 +1,4 @@
+@media screen and (min-width:993px) {
 @charset "utf-8";
 /* CSS Document */
 
@@ -87,4 +88,5 @@ nav ul li, footer ul li {
 
 footer {
 	margin-top: 15px;
+}
 }
